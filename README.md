@@ -1,4 +1,18 @@
 # Intrusion Detection System
+# Table of Contents:
+1. Prerequisites
+2. Introduction
+3. Key Concepts
+4. Code Structure
+5. Conclusion
+
+# Prerequisites:
+Python libraries used:
+1. OpenCV
+2. numpy
+3. smtplib
+4. email
+   
 # Introduction
 Intruder detection systems are essential for ensuring the security of homes, offices, and other premises. Here, I will explore how to build an intruder detection system using OpenCV, a popular computer vision library, and email notifications. The system will use a webcam to capture video frames, analyze them for intruders, and send email notifications when an intruder is detected.
 
